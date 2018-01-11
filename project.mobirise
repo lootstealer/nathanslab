@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MGL",
-    "currentPage": "home.html",
+    "currentPage": "new_member.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -147,7 +147,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/8638067405-786d6104b5-b-1024x577.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -163,7 +166,7 @@
           },
           "title": "New Members!",
           "text": "Welcome, after you are done reading this you should head over to the More Info tab and read are rules!\n<br><br>Bad Boy's MGL is a clan for those that want to further their game, want to prove what they actually can do in war without a constant reminder of you need to do better or what do you call that. We the leaders will guide new members of the clan to success if they do not show us how to be successful of course. Can not teach a DR how to treat patients if you are only a nurse! But we will try are best to guide new members and at times new players to their goal of being the top of any clan they go to. We want to be the clan that makes you are breaks you. We do not want to be just another clan that bosses you around and tells you that you are no good. <br>\n<br>We will work with any player no matter the difficulty. We can and will if asked teach you new troop combos and how to use them. We will put time and effort into all of our players. If we need to we record an attack combo to give you a visual of what we are saying. We are a team and teams must stick together to win. <br>\n<br>We are a easy going war clan that likes to have fun. But everyone that joins must remember you are not guaranteed to have someone on at all times of the day. We all have day jobs, school, etc. But if you want or need someone on at that moment just shot a pm to one of the leaders preferably the leader of the clan. &nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">I want to be part of the Bad Boy's MGL Team!!!<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">I want to be part of the Bad Boy's MGL Team!!!<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -212,7 +215,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">I want in!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">I want in!</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-b"
         }
@@ -1059,7 +1062,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -1077,7 +1080,7 @@
           },
           "title": "So why choose us?",
           "text": "Easy we want to get to know you, we want to learn who you are and what you are able to do. You are not seen as another war member but a member able to win us the war. You are the reason we exist. Without players like you their would be no clan, and we know this most clans take their players for granted. We try not to.&nbsp;<br><br>We can only grow with help from player like yourself. We war for players like you. But you should choose us over other clans becuase we motivate, encourage, and brag about are players to other clans.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
