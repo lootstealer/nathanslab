@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MGL",
-    "currentPage": "page7.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -544,7 +544,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/151561651651-1920x1920.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/war-venue-end-of-the-world-apocalypse-war-soldier-494345-960x698.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
