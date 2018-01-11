@@ -27,7 +27,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
     "uniqCompNum": 34,
-    "versionPublish": "4.5.4"
+    "versionPublish": "4.5.4",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112305991-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112305991-1');\r\n</script>\r\n"
   },
   "pages": {
     "new_member.html": {
